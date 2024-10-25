@@ -12,7 +12,7 @@ setwd("INSERT YOUR WORKING DIRECTORY HERE")
 
 HRCT_Normal <- read_xlsx(path = "HRCT_all.xlsx")
 CT_Normal <- read_xlsx(path = "CT_all.xlsx")
-Autopsy <- read_xlsx(path = "Autopsy_Retry.xlsx")
+Autopsy <- read_xlsx(path = "Autopsy.xlsx")
 
 # Check the class of difference variables
 
