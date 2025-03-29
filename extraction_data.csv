@@ -1,0 +1,341 @@
+Covidence #,Study ID,Title,Reviewer Name,Study ID,Title,Journal,Year of publication,Country in which the study was conducted,Conflicts of interest,Other general information notes,Study design,Study start date,Study end date,Method of recruitment of participants,"Population description (employment, mentioned sub-groups?, etc.)",Mean age of population,Mean years of estimated silica exposure,Sample size,Inclusion criteria,Exclusion criteria,Newly diagnosed or is this follow-up from pre-existing diagnosis?,How did the study diagnose as positive for CXR (>=1/0 or >=1/1?),How did the study diagnose as positive for HRCT?,How did the study diagnose as positive for autopsy?,General comments,Type of CT?,CXR positives (diagnosis; small-opacities),CXR normal (no diagnosis/Cat 0; includes 0/1),HRCT positives (diagnosis; WO or IR),HRCT normal (no diagnosis),2x2 Table: CXR vs (HR)CT:,CXR + (HR)CT +,CXR + (HR)CT-,CXR - (HR)CT +,CXR - (HR)CT-,CXR vs (HR)CT Subgroup:,CXR ILO 0 (HR)CT Cat 0,CXR ILO 0 (HR)CT Cat 1,CXR ILO 0 (HR)CT Cat 2,CXR ILO 0 (HR)CT Cat 3,CXR ILO 1 (HR)CT Cat 0,CXR ILO 1 (HR)CT Cat 1,CXR ILO 1 (HR)CT Cat 2,CXR ILO 1 (HR)CT Cat 3,CXR ILO 2 (HR)CT Cat 0,CXR ILO 2 (HR)CT Cat 1,CXR ILO 2 (HR)CT Cat 2,CXR ILO 2 (HR)CT Cat 3,CXR ILO 3 (HR)CT Cat 0,CXR ILO 3 (HR)CT Cat 1,CXR ILO 3 (HR)CT Cat 2,CXR ILO 3 (HR)CT Cat 3,CXR positives (diagnosis; small-opacities),CXR normal (no diagnosis/Cat 0; includes 0/1),Autopsy positives (diagnosis),Autopsy negatives,2x2 Table: CXR vs Autopsy:,CXR + Autopsy +,CXR + Autopsy -,CXR - Autopsy +,CXR - Autopsy -,What is defined to be in the autopsy categories?,CXR vs Autopsy Subgroup:,CXR ILO 0 Autopsy Cat 0,CXR ILO 0 Autopsy Cat 1,CXR ILO 0 Autopsy Cat 2,CXR ILO 0 Autopsy Cat 3,CXR ILO 1 Autopsy Cat 0,CXR ILO 1 Autopsy Cat 1,CXR ILO 1 Autopsy Cat 2,CXR ILO 1 Autopsy Cat 3,CXR ILO 2 Autopsy Cat 0,CXR ILO 2 Autopsy Cat 1,CXR ILO 2 Autopsy Cat 2,CXR ILO 2 Autopsy Cat 3,CXR ILO 3 Autopsy Cat 0,CXR ILO 3 Autopsy Cat 1,CXR ILO 3 Autopsy Cat 2,CXR ILO 3 Autopsy Cat 3,Draw a flow diagram for the primary study,Draw a flow diagram for the primary study supporting text,1A (Risk of Bias):,1A (Risk of Bias): supporting text,1A (Risk of Bias): Was a consecutive or random sample of patients enrolled?,1A (Risk of Bias): Was a consecutive or random sample of patients enrolled? supporting text,1A (Risk of Bias): Was a case-control design avoided? ,1A (Risk of Bias): Was a case-control design avoided?  supporting text,1A (Risk of Bias): Did the study avoid inappropriate exclusions?,1A (Risk of Bias): Did the study avoid inappropriate exclusions? supporting text,1A (Risk of Bias): Overall = Could the selection of patients have introduced bias? ,1A (Risk of Bias): Overall = Could the selection of patients have introduced bias?  supporting text,1B (Concerns regarding applicability):,1B (Concerns regarding applicability): supporting text,1B (Concerns regarding applicability): Overall =  Is there concern that the included patients do not match the review question?,1B (Concerns regarding applicability): Overall =  Is there concern that the included patients do not match the review question? supporting text,2A (Risk of Bias): ,2A (Risk of Bias):  supporting text,2A (Risk of Bias): Were the index test results interpreted without knowledge of the results of the reference standard?,2A (Risk of Bias): Were the index test results interpreted without knowledge of the results of the reference standard? supporting text,"2A (Risk of Bias):  If a threshold was used, was it pre-specified? ","2A (Risk of Bias):  If a threshold was used, was it pre-specified?  supporting text",2A (Risk of Bias): Overall = Could the conduct or interpretation of the index test have introduced bias?,2A (Risk of Bias): Overall = Could the conduct or interpretation of the index test have introduced bias? supporting text,"2B (Concerns regarding applicability): Is there concern that the index test, its conduct, or interpretation differ from the review question?","2B (Concerns regarding applicability): Is there concern that the index test, its conduct, or interpretation differ from the review question? supporting text",3A (Risk of Bias):,3A (Risk of Bias): supporting text,3A (Risk of bias): Is the reference standard likely to correctly classify the target condition?,3A (Risk of bias): Is the reference standard likely to correctly classify the target condition? supporting text,3A (Risk of bias): Were the reference standard results interpreted without knowledge of the results of the index test?,3A (Risk of bias): Were the reference standard results interpreted without knowledge of the results of the index test? supporting text,"3A (Risk of bias): Overall = Could the reference standard, its conduct, or its interpretation have introduced bias?","3A (Risk of bias): Overall = Could the reference standard, its conduct, or its interpretation have introduced bias? supporting text",3B (Concerns regarding applicability): Is there concern that the target condition as defined by the reference standard does not match the review question?,3B (Concerns regarding applicability): Is there concern that the target condition as defined by the reference standard does not match the review question? supporting text,4A (Risk of Bias): ,4A (Risk of Bias):  supporting text,4A (Risk of Bias):,4A (Risk of Bias): supporting text,4A (Risk of Bias): Was there an appropriate interval between index test(s) and reference standard?,4A (Risk of Bias): Was there an appropriate interval between index test(s) and reference standard? supporting text,4A (Risk of Bias): Did all patients receive a reference standard?,4A (Risk of Bias): Did all patients receive a reference standard? supporting text,4A (Risl of Bias): Did patients receive the same reference standard?,4A (Risl of Bias): Did patients receive the same reference standard? supporting text,4A (Risk of Bias): Were all patients included in the analysis?,4A (Risk of Bias): Were all patients included in the analysis? supporting text,4A (Risk of Bias): Overall = Could the patient flow have introduced bias?,4A (Risk of Bias): Overall = Could the patient flow have introduced bias? supporting text
+1381,Bergin 1986,CT in silicosis: Correlation with plain films and pulmonary function tests,Consensus,"",CT in silicosis: Correlation with plain films and pulmonary function tests,American Journal of Roentgenology,1986,Canada?,N/A,"",Cross sectional study,Jan 1984,Feb 1985,Clinic patients,"23 (17 patients with silicosis and 6 controls)
+All patients had hard rock mining or sandblasting exposure to silica
+15/17 heavy smokers (23.8 pack-years)",58.6 (range 40-84),19.1 years exposure,23 (17 patients with silicosis and 6 controls),Patients diagnosed with silicosis with history of exposure (hard rock mining or sandblasting) and radiographic changes,None?,Pre-existing diagnosis,"ILO (>=1/0 - see below) with 1 observer: ""radiologist routinely interprets the radiographs of patients with pneumoconioses"" 
+
+It looks as though ILO profusion score (out of 12) was for each of the ILO categories:
+
+0/- (0/0), 0/1, 1/0
+1/1, 1/2, 2/1
+2/2, 2/3, 3/2
+3/3, 3/+
+
+There was no score 3 (0/1), only 4 (1/0)","Grade 1 for small nodules, II if many with no confluence, III if confluence + disruption of vascular markings, IV for confluence >=2 slices consistent with PMF
+
+- 2 observers on 2 occassions (so 4 observers = figure 3 reports mean of 4)","","For the subgroup table, I have arranged the scores as follows:
+
+ILO 0 = 0-3
+ILO 1 = 4-6
+ILO 2 = 7-9
+ILO 3 = 10-12
+
+CT scores:
+Cat 0 = 0
+Cat 1 = 1
+Cat 2 = 2
+Cat 3 = 3+4
+
+Slightly unclear how differences accounted for - seems to be mean for CT. CXR single observer",Normal CT,17,6,18,5,"",17,0,1,5,"",5,1,0,0,0,0,3,2,0,0,2,5,0,0,0,5,"","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Unclear,"",Yes,"",Yes,"",Unclear,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"CXR: CXR - ""radiologist routinely interprets the radiographs of patients with pneumoconioses""",Yes,"",Yes,"",Unclear,"""radiologist routinely interprets the radiographs of patients with pneumoconioses"". Also a single reader",Low,"",Describe the reference standard and how it was conducted and interpreted,"CT scan read on 2 occassions by 2 observers working independently and not involved in CXR
+
+CT grading system was from 0 to 4. 
+
+No indication of experience of readers",Yes,"",Yes,"",Low,"",Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Yes,"",Yes,"",Yes,"",Yes,"",Low,""
+1380,Begin 1991,Computed tomography scan in the early detection of silicosis,Consensus,"",Computed Tomography Scan in the Early Detection of Silicosis,American Review of Respiratory Disease,1991,Canada,"","",Cross sectional study,Not reported,Not reported,Other: Workers' Compensation Board referral,"Workers' Compensation Board referral for possible disease through long-term exposure to silica dust in mines and foundries.
+
+All men? Doesn't say
+
+86% of workers were current or former smokers, on average 28.3 +/- 3 pack years.",57.1 +/- 1.4,29.2 +/- 1.7,49,Suspected diagnosis through long-term work in mines/foundries,N/A,Newly diagnosed,"Diagnosis is category 1 (including 1/0). There is no data for >=1/1 specifically. Read by ""experienced"" readers
+
+4 observers for each CXR
+- 3 chest physicians in evaluation of occupational lung diseases >10y
+- 4th reader was chest radiologist with interest in pneumoconioses","Graded on the same principles as ILO
+Category 0 (profusion 0/-, 0/0, 0/1), etc
+
+Same 4 readers","",The final score of readings was the mean of the four independent readings for each CR or CT scan and established the final averaged mark of each CR and CT scan,HRCT,13,36 (including the 6 indeterminate readings),29,20,"",12,1,17,19,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Unclear,"",Yes,"",Yes,"",Unclear,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"Whilst these readers are experienced, it is unclear if they have formal training. This may have an impact on their ability to systematically assign ILO classifications. ",Low,CXR is appropriate,Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Unclear,"",Yes,"",Yes,"",Yes,"",Unclear,""
+1379,Tamura 2015,Relationships (I) of international classification of high-resolution computed tomography for occupational and environmental respiratory diseases with the ilo international classification of radiographs of pneumoconioses for parenchymal abnormalities,Consensus,"",Relationships (I) of international classification of high-resolution computed tomography for occupational and environmental respiratory diseases with the ilo international classification of radiographs of pneumoconioses for parenchymal abnormalities,Industrial Health,2015,Japan,"","",Cross sectional study,Not stated,Not stated,Clinic patients,"46 patients with substantial occupational mineral dust exposure (e.g. silica, asbestos, cement) were recruited from an outpatient clinic for suspected pneumoconiosis. 28 control participants without occupational dust exposure were recruited from clerical offices
+
+28 controls without dust exposure
+
+39 current smokers, 32 ex-smokers, 3 non-smokers",Not reported,31 years (range 5-52 years),46(+28 controls)= 74,Substantial occupational exposure to mineral dust for patients. No occupational dust exposure for controls,Not stated,Newly diagnosed,"ILO with 3 readers, B reader certified. Median result
+>=1/0 = diagnosis","3 readers with ICOERD
+19-point scale summed grades for each opacity type
+Abnormality was defined as summed grade >=1. Median result used
+
+We cant do sub-group analysis like the other paper with a similar CT/ICOERD score since hard to make ILO equivalent to the summed grades up to 16","","",HRCT,23,51,21,53,"",20,3,1,50,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Unclear,"",Yes,"",Yes,"",Unclear,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"",Unclear,"",Yes,"",Low,"Blinding covered above, otherwise robust",Low,"",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Unclear,"",Low,"As previously - robust bar blinding, covered above",Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Yes,"",Yes,"",Yes,"",Yes,"",Low,""
+1378,Şener 2019,Comparison of the international classification of high-resolution computed tomography for occupational and environmental respiratory diseases with the international labor organization international classification of radiographs of pneumoconiosis,Consensus,"",Comparison of the International Classification of High-resolution Computed Tomography for occupational and environmental respiratory diseases with the International Labor Organization International Classification of Radiographs of Pneumoconiosis,Industrial Health,2019,Turkey,None,"",Cross sectional study,2012,2014,Clinic patients,"Patients diagnosed with pneumoconiosis from 2012-2014 who had chest x-ray, HRCT, and PFT exams at the time of diagnosis were included. Those with other known lung diseases were excluded
+
+125 were screened and 83 male patients who met the criteria were included
+
+23 were nonsmokers, 30 active, and 30 ex-smokers
+
+25 were ""founder"", 12 welders, 11 dental technicians, 9 miners. The other 26 worked in sandblasting, grinding, stone quarrying, ceramins manufacturing, tunne ldigging, poly-propylene pipe fittings, heat insulation installations, bucket operations and electrical installation
+
+79 diagnosed radiologically and 4 pathologically (wedge resection, thoractomy, TFNA or transbronchial biopsy)
+
+55 (66.27%) had no asbestos exposure, but 28 (33.73%) had been exposed to asbestos",44.46 (+/- 11.45),Working period ranged fro 2-46 (mean 16.48) years,83,"Diagnosed with pneumoconiosis 2012-2014 and had chest x-ray, HRCT and PFT at time of diagnosis",Other known lung diseases,Pre-existing diagnosis,"ILO with 2 pulmonologists certified B readers of ILO. Performed together - > consensus. Blinded to occupation
+
+Cut-off were categories 0-3, however, no direct indication as to what constitued each cut-off, however, they said they used the ILO classification so we can likely make the assumption they were the same as the ILO with >=1/0 constituting category 1 as diagnosis","ICOERD with 3 radiologists
+(0-3 each lung zone). Joint consensus","","We cannot perform sub-group analysis despite Figure 1:
+1) The sums of the scores 0-3 for each lung zone (min 0, max 18) are compared with 4 ILO categories
+2) Unclear why Figure 1 only has 25 dots, when the sample size of the study was 83 (who apparently had both CXR and HRCT)
+3) Figure 1's second graph denotes each dot as 52, then 51 and 51, which is nonsensical as the total n was 83
+
+CXR positive = 72
+CXR normal = 11
+
+HRCT positive = 79
+HRCT normal = 4",HRCT,72,11,79,4,"",72,0,7,4,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Unclear,"",Yes,"",Yes,"",Unclear,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"",Unclear,"",Yes,"",Low,We dont know if they knew the HRCT results however this is covered above and otherwise methods are relatively clear and blinded from occupation. ,Low,"",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Unclear,"",Low,We dont know if they were blinded to ILO results or PFT etc - i think this is covered above ,Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Yes,"",Yes,"",Yes,"",Yes,"",Low,""
+1095,Meijer 2011,Pneumoconiosis and emphysema in construction workers: Results of HRCT and lung function findings,Consensus,"",Pneumoconiosis and emphysema in construction workers: results of HRCT and lung function findings,Occupational and Environmental Medicine,2011,Netherlands,"","",Cross sectional study,2002,2002,Other: Construction workers re-invited from prior study in 1998,"180 construction workers with different stages on chest radiographs from the original 1998 study of 1335 workers were re-invited in 2002. 
+
+Sample was taken according to the initial distribution of ILO categories in the original study
+
+96 agreed to participate but due to budget reasons with HRCT, final study had 79 male Caucasian construction workers
+
+Most were still working in the construction industry or had recently sopperd (12/96) or changed occupation (5/96)",49.6 years (range 35-67),21.2 years working in construction industry,79 (77 had CXR as 2 refused),Sampled from initial cohort based on distribution of ILO categories on CXR,None mentioned,"Initial CXRs from 1998, but would have been a mix","Posteroanterior radiographs by 2 certified 'B' readers according to ILO independently. If disagreement then third.
+
+They used 3 profusion categories (0/0, 0/1-1/0 and >=1/1)","Independently by 3 readers (1 occupational physician, 2 radiologists) according to the ""Standardized CT/HRCT-classification of the German Federal Republic for work and environmental related thoracic diseases"".  Consensus by at least two of the three readers for the specific presence of abnormalities","","It's a shame they did not break down the ILO groups further
+
+For the below, I considered their group >=1/1 as positive for silicosis, not their 0/1-1/0. Additionally, I only accepted well-defined ROs as positive diagnosis for silicosis based on HRCT since there was potential overlap between RO and IR (for instance, under profusion >=1/1 on the X-axis for Table 2 displaying 4 with RO+IR when n=3).
+
+These limitations may mean we cannot include this paper for analysis.
+
+If we were to consider >=1/1 as positive (as I have done below) with only HRCT RO then 25% sensitivity and 100% specificity.
+
+If we were to consider 0-1/1-0 as positive with only HRCT RO then 58% sensitivity (7/12*100) and 89% specificity (58/65*100).
+
+In light of me being unsure on the usefulness of this paper I've not done the quality assessment for it yet.",HRCT,3,74,12,65,"",3,0,9,65,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",No,"",Yes,"",No,"",High,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",Low,"Methods are clear and adequate, despite a different cut off",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",High,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Yes,"",Yes,"",Yes,"",Yes,"",Low,""
+760,COWIE 1993,"ASSOCIATION OF SILICOSIS, LUNG DYSFUNCTION, AND EMPHYSEMA IN GOLD MINERS",Consensus,"","Association of silicosis, lung dysfunction, and emphysema in gold miners",Thorax,1993,South Africa,"",Follow-up from prior study,Cross sectional study,Not explicitly stated but started Jan 1989,Not explicitly stated,Occupational screening,"The population is a subset of 70 men selected from a larger cohort of 1197 older gold miners initially evaluated in another cross-sectional study in 1984-1985
+
+In January 1989, 950 (79%) of the original 1197 men were still working in the mines. From these 950, a group of 267 was randomly selected after stratification by their baseline nodule profusion category, and 242 (91%) attended follow-up. The 70 men who underwent computed tomography in this study were randomly selected from those 242 follow-up participants.",Mean age from those who had CT was 49.7 (SD 5.92) - I think this is the only relevent category for our purposes,Mean years working underground for the CT group was 29.6 years (SD 7.76),70,"Part of the original 1197 cohort established in 1984-1985
+Still working in the gold mines in January 1989","Not explicitly stated, but the 70 undergoing CT were randomly selected from the 242 follow-up attendees, so no other specific exclusions are mentioned?","","Category 1 includes 0/1, unfortunately no way of parsing this separately. 
+
+2 readers","Cat 1 when few nodules seen, cat 2 when intermediate number of nodules seen and cat 3 where innumerable nodules seen. Presumably single reader","","Unclear if single or dual reader for CXR. If dual, no comment on how differences resolved. ",Normal CT,55,15,22,48,"",46,9,2,13,"",13,1,1,0,5,9,1,0,4,16,14,0,0,4,1,1,"","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Yes,"",Yes,"",Yes,"",Low,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"",Yes,"",Yes,"",Unclear,Unclear experience and methodology of reading not well described,High,"0/1 was set as the cut-off, which differs from our definition of silicosis diagnosis of >=1/0. ",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,Could potentially be a higher risk of bias. Single reader?,Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Yes,"",Yes,"",Yes,"",Yes,"",Low,""
+751,Berk 2016,"Relationship between radiological (X-ray/HRCT), spirometric and clinical findings in dental technicians' pneumoconiosis",Consensus,"","Relationship between radiological (X-ray/HRCT), spirometric and clinical findings in dental technicians' pneumoconiosis",CLINICAL RESPIRATORY JOURNAL,2016,Turkey,None,"",Cross sectional study,Not provided,Not provided,Occupational screening,"All 45 dental technicians working in Sivas, Turkey, were invited. 32 out of 45 provided informed consent.
+
+30 were men, 2 were female
+All worked in poorly ventilated, dusty environments
+
+22 (69%) had history of smoking",31 +/- 9,14 +/- 9,32,Dental technician working in Sivas,Not providing informed consent,Newly diagnosed,"ILO wth 2 chest physician readers and 1 radiologist
+>=1/0 considered diagnosis. 1 chest physician was B reader certified. ","ICOERD scale used (same 3 readers?)
+Total profusion scores of right and left lungs (6 zones) recorded as total (each scored 0-3 where 0 is none, 1 is mild abnormalities definitely present but few, 2 is moderate numerous, and 3 is severe numerous with normal anatomical structures poorly visible)","","In the presence of a disagreement, CXR and HRCT were
+re-evaluated together by all three readers",HRCT,8,24,22,10,"",8,0,14,10,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Yes,"",Yes,"",Yes,"",Low,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"CXRs interpreted by 2 chest physicians and 1 radiologist B reader certified
+Based on ILO",Yes,"",Yes,"",Low,"",Low,"",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Unclear,"",Yes,"",Yes,"",Yes,"",Unclear,""
+730,Hoy 2023,Prevalence and risk factors for silicosis among a large cohort of stone benchtop industry workers,Consensus,"",Prevalence and risk factors for silicosis among a large cohort of stone benchtop industry workers,Occupational and Environmental Medicine,2023,Australia,"","Same cohort from the previous study:
+
+""Details of the programme methodology and preliminary findings from 239 workers who had participated during the first 12 months of the programme have been previously reported""",Other: ,May 2019,October 2021,Other: Large population-based voluntary screening to anyone who worked in the stone benchtop industry for any period of time,"Workers in the stone benchtop industry for any period of time
+
+These were screened from WHS screening programme in Victoria, Australia. Preliminary findings from 239 workers during the first 12 months of the programme were already reported in the prior Hoy 2021 paper we have included for data extraction. 
+
+Of the 414 who had primary and secondary screening, 155 never smoked, 100 were former smokers, and 159 were current smokers.
+
+401 (96.9%) were male
+
+Mean BMI = 27.7 (SD 5.5)","Of the 414 with primary & secondary screening:
+38.1 (30.1-46.7; P25-P75)",25 years at first SBI job; median 25 (IRQ 20-33),"Study reported that 414 high-risk SBI workers in total.
+
+However, n = 396 for those with sufficient data for CXR and HRCT secondary screening.","Primary screening (n=544) through questionnaire, CXR and PFTs.
+
+If there was at least one of: abnormal CXR (ILO>=1, or other relevant abnormal finding), abnormal PFT (FEV1, FVC, FEV1/FVC or DLCO below LLN and/or a 12% and 200 mL improvement in FEV1 and/or FVC post-bronchodilator), symptoms/signs determined significant by physician (exertional dyspnoea), or high/very-high estimated silica exposure category as determined by questionnaire (which seems to mainly be determined through years of work in the stone-benchtop industry, and estimated exposure intensity through identification of job and self-reported proportion of time spent doing dry-work or near someone doing dry-work in the job).
+
+If there was one of the above, then they moved to secondary screening and were included in the study.","Of the initial 993 workers attending the screening programme, 717 consented, but 173 were excluded due to incomplete evaluations or never working in SBI leading to 544 who completed primary screening.
+
+Of the 544 workers with primary screening, 130 workers were excluded as they were not determined to be high risk (based on the inclusion criteria) and did not undergo secondary screening resulting in a remainder of 414 workers.",Newly diagnosed,"Small opacity profusion category >=1 or 'other relevent abnormal finding'
+Therefore, refers to ILO >=1/0","Simple silicosis = pulmonary nodules <=10 mm diametre
+Complicated = nodules or opacity >10 mm","","My calculations for sensitivity and specificity align with what is reported on the study:
+
+Sensitivity 67.27% and specificity 86.014%",HRCT,114,282,110,286,"",74,40,36,246,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",No,"",Yes,"",No,"",High,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"CXR though ILO looks as though CXR evaluated through 1 of 2 occupational health providers under ""supervision of occupational and environmental physician""",Unclear,"",Yes,"",High,"CXR interpretation must have occured prior to HRCT eval as this was only primary screening. Unclear if single reader, and level of training of reader, and methodology of reading. 
+",Low,"",Describe the reference standard and how it was conducted and interpreted,"HRCT 
+Simple = <10mm nodules and >10mm if nodules/opacity = complicated. 
+Diagnoses reported to the research team 
+were confirmed by one respiratory physician investigator (RFH) by review of the investigations and respiratory physician reports.
+
+",Yes,"",Unclear,"",High,We dont know if the physicians involved with secondary screening were conveyed the information from the primary evaluation (e.g. CXR results). Method of reporting - single reader/multiple readers/level of experience - not described.,Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Unclear,"",No,"",Yes,"",No,"",High,""
+349,Leon-Jimenez 2020,Artificial Stone Silicosis: Rapid Progression Following Exposure Cessation,Consensus,"",Artificial Stone Silicosis: Rapid Progression Following Exposure Cessation,Chest,2020,Spain,"","",Retrospective cohort study,January 2009,June 2018,Other: Retrospective recruitment of workers diagnosed with silicosis in 2009 and their follow-up,"106 male workers in small factories involved in the manufacturing and installation of countertops who were diagnosed with artificial stone silicosis. 
+
+Retrospective data collection started in 2009
+
+17.9% smokers, 37.7% ex-smokers, 44.3% non-smokers
+10.6 (7.6 SD) pack-years for smokers and ex-smokers
+
+4 prior diagnosis of bronchial asthma, and 1 with PTB",36.2 (SD 7),12 years (SD 4.3),106,Male native Spanish worker diagnosed with silicosis in the Bay of Cadiz area of Southern Spain related to workplace exposure to artificial stone,"Having other jobs/hobbies that could be the cause of silicosis
+Inadequate retrospective data (lost to follow-up) in 6 for those diagnosed in 2017-2018","Initial diagnosis at baseline provided, with further follow-up later on",>=1/0,"ICOERD criteria
+Large opacities if mean of 2 perpendicular diameters >1cm","","All cases were positive on HRCT due to the nature of the study selecting and following-up cases who had a positive diagnosis, therefore, the specificity of CXR would be 100%. 
+
+CXR reported by 3 trained readers (independent?) with discrepancy resolved by consensus. Method for CT scan reading not described. ",HRCT,82 (category 1 to 3) + 5 PMF = 87,19,106,0,"",87,0,19,0,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Yes,"",Yes,"",Yes,"",Low,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"CXR was the index test
+ILO >=1/0 = diagnosis
+3 trained readers with consensus if disagreement",Unclear,"",Yes,"",Low,"",Low,"",Describe the reference standard and how it was conducted and interpreted,HRCT methods not described,Yes,"",Unclear,"",Unclear,Unclear methods,Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Unclear,"",Yes,"",Yes,"",Yes,"",Unclear,""
+250,Crawford 2024,"Accelerated silicosis in sandblasters: Pathology, mineralogy, and clinical correlates",Consensus,"","Accelerated silicosis in sandblasters: Pathology, mineralogy,and clinical correlates",American Journal of Industrial Medicine,2023,United States,2 authors were expert witnesses in silica personal injury claims,"",Retrospective cohort study,Biopsied between 1988 and 1995,Biopsied between 1988 and 1995,Other: Medical-legal evaluation from outbreak of silicosis amongst sandblasters in West Texas,"46 individuals engaged in sandblasting oil-field drilling equiment in West Texas with inadequate or absent control for dust and ventilation.
+
+n=45 were Hispanic males (Mexican immigrants), except for n=1 Caucasian male
+
+22 of the 46 were smokers; mean 3.3 pack-year history
+
+Only 42 had HRCT (versus 46 CXR) which were from ""no recycled sand-use comparison"" category",Mean age of 35.6 (10.4 SD),Sandblasting exposure of 7.6 years (4.8 SD),46 (42 had both HRCT & CXR),"Sandblasters in this West Texas oil-field who initially presented for medical-legal evaluation of possible silicosis and underwent a lung biopsy (either transbronchial, thoracoscopic or at autopsy) with CXR, HRCT and lung function tests, in order to establish a diagnosis of silicosis.","The exclusion criteria were patients who did not have a lung biopsy (110 total cases evaluated, of which only n=46 underwent biopsy and thus had enough data to report)
+
+The paper claims that 39 sandblasters without biopsies, for which demographic data was available, they had similar demographics (all Hispanic, Mexican immigrants) with significant difference in mean age, duration sandblasting and smoking frequency.",Newly diagnosed,"Study decided ILO was unsatisfactory and used their own 'accelerated silicosis CXR rating system' based on 4 scores:
+
+0 = normal
+1 = interstitial micronodularity
+2 = micronodularity and hilar adenopathy
+3 = micronodularity, bilateral hilar adenopathy  and PMF
+4 = all features of 3 with additional distortion of lung parenchyma and bronchial narrowing and/or obstruction","Scale of Bergin:
+
+0 = no definitive micronodularity
+1 = parenchymal micronodularity with no disruption of vascular markings
+2 = presence of many nodules without confluence plus normal parenchymal markings visible
+3 = confluence of nodules usually associated with disruption of vascular markings
+4 = confluence of nodules extending over 2 or more slices consistent with diagnosis of PMF",Only 1 patient had autopsy,"Unclear how we can correlate their rating system to ILO's
+
+Also, only 42 had HRCT therefore;
+
+CXR abnormal: 21 (46% = total of 46)
+CXR normal: 25
+
+HRCT abnormal: 24 (57% = total of 42)
+HRCT normal: 18
+
+4 extra patients were included in CXR who were in the ""no recycled sand-use comparison"" who ended up not being abnormal therefore CXR normal = 21. 
+
+No description of method of CXR or HRCT reporting/number of readers or experience.",HRCT,21,21,24,18,"",21,0,3,18,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",No,"",Yes,"",No,"",High,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"",Unclear,"",No,"",High,"",High,"",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Unclear,"",Unclear,It is not stated whether HRCT was interpreted without knowledge of the CXR findings. No clear approach described,Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Unclear,"",No,"",Yes,"",No,"",High,""
+217,Begin 1987,CT assessment of silicosis in exposed workers.,Consensus,"",CT Assessment of Silicosis in Exposed Workers,American Journal of Roentgenology,1987,Canada,N/A,"",Cross sectional study,Not specified,Not specified,Occupational screening,"58 long-term silica-exposed workers in the granite or foundry industries of the Eastern Townships of Quebec
+
+90% current or former smokers with 25+/-3 pack-years",59 +/- 2,30 years (range 14-40 years),58,Long-term exposure to silica dust in the granite or foundry industries in workers from Eastern Townships of Quebec,Not specified,Newly,"3 readers with ILO
+>=1/0. No description of experience/training. ","3 readers, similar to ILO. ","","Found 100% sensitivity and 50% specificity (as CT missed 6 extra patients with changes on CXR, therefore, counted as false positive for CXR)
+
+Study focuses on discerning where CXR failed to identify the right category of complicated silicosis. 
+
+Unclear how the different opinions of three readers accounted for. ",Normal CT,52,6,46,12,"",46,6,0,6,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Unclear,"",Yes,"",Uncler,"",Unclear,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"",Unclear,"",Yes,"",Unclear,"",Low,"",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Unclear,"",Unclear,"",Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Yes,"",Yes,"",Yes,"",Yes,"",Low,""
+197,Grenier 1991,Chronic diffuse interstitial lung disease: diagnostic value of chest radiography and high-resolution CT.,Consensus,"",Chronic diffuse interstitial lung disease: diagnostic value of chest radiography and high-resolution CT,Radiology,1991,France,"","",Cross sectional study,January 1986,March 1989,Clinic patients,"163 patients with CDILD were referred from several pneumology departments for high-resolution CT of the chest. Of these, 140 patients had CDILD and pulmonary infiltration visible on radiography, which were included in the study.
+
+This included 11 patients with silicosis. Whilst specific details are provided for the entire cohort, not specifically for silicosis.",Not specifically for silicosis,Not reported,11 with silicosis,"Specific diagnosis proven by defined criteria (occupational exposure and HRCT findings, with lung biopsy in 2 cases for silicosis along with HRCT)",Not stated,Pre-existing diagnosis from HRCT,"ILO with 3 readers, but did not say cutoff",Not mentioned,"","With a high confidence level (probability of >=75% by the observers), they each had 18% correct for the silicosis diagnosis, as compared to (55%, 45%, and 27%) for CT. 
+
+I used the high-confidence level values below (as it wouldn't make sense to include diagnoses for which the observers had <75% probability of it being silicosis). Also, the paper doesn't clarify how these observers exactly came to the diagnosis (what ILO cut-off), only that there would have been small opacities
+
+We therefore have to think if this study is really useful to include, or not. Sensitivity is also only 18%.
+
+CT and radiographs read separately in a random order by 3 independent observers who had not participated in decision making all experienced radiologists but on limited experience CDILD. Same protocol used. Mean result used. ",HRCT,2,9,11,0,"",2,0,9,0,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Yes,"",Yes,"",Yes,"",Low,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"",Yes,"",Unclear,"",High,"",Unclear,"",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Yes,"",Yes,"",Yes,"",Yes,"",Low,""
+188,Hnizdo 1993,Correlation between radiological and pathological diagnosis of silicosis: an autopsy population based study.,Consensus,"",Correlation between radiological and pathological diagnosis of silicosis: an autopsy population based study,American Journal of Industrial Medicine,1993,South Africa,N/A,"",Retrospective cohort study,1968,1971,Occupational screening,"988 miners were selected from an original cohort of 2,260 White South African gold miners studied in 1968-1971 for respiratory impairments. All miners had died and had autopsy examination to determine pneumoconiosis for compensation purposes
+
+557 miners radiographs were read in random order. This number is derived of the radiographs from miners who had silicosis based on autopsy (326 of the 330; 4 radiographs could not be found) and 1/3 of those who did not have silicosis on autopsy (231)","Of the 988, age at 1968-1971 was 50.6 SD 2.48; but age at last X-ray was 59.1 SD 5.54",Cumulative dust gh/m^3 was 14.8 SD 6.1; years of mining was 27.1 SD 6.6,557,"Initial 2260 miners selected for 1968-1971 study if they attended compulsory medical examination during the same period, age was 45-54 years, and underground gold mining service was at least 10 years with less than 2 years service in other mines. Mortality follow-up established 85% of the miners who had died had autopsy.",Not stated,Follow-up of a previously established cohort,"Three readers independently read the chest radiographs in random order, blinded to exposure and pathology data, using the ILO classification. 
+
+Category 1/1 or higher was considered a positive diagnosis of silicosis from the study (but data is provided to make our own cutoff)
+
+Average time period between last radiograpoh and autopsy was 2.7 years","","The presence and degree of silicosis was determined macroscopically and histologically. Slight, moderate or marked silicosis was considered positive for silicosis
+
+0: None - No silicotic nodules found in the lung tissue at autopsy.
+1: Insignificant - An occasional silicotic nodule found in the lung tissue at autopsy.
+2: Slight - A few silicotic nodules found in the lung tissue at autopsy.
+3: Moderate - A moderate number of silicotic nodules found in the lung tissue at autopsy.
+4: Marked - A large number of silicotic nodules found in the lung tissue at autopsy.
+
+In terms of for our table cat's:
+0 = 0 + 1 (insignificant)
+1 = slight
+2 = moderate
+3 = marked",">=1/0 will be used as the cut-off for the values below. 
+
+This is based from reader 2's table (there is no averaged table for cut off 1/0, only 1/1). 
+Same sensitivity of 50% as paper describes for 1/0","","","","","","","","","","","","","","","","","","","","","","","","","","","",59 + 48 + 10 + 14 + 26 + 16 + 8 + 7 = 188,369,326,231,"",163,25,163,206,"In the general comments (in summary, cat 0 included none + insignificant)","",206,101,54,8,24,46,31,16,1,14,27,14,0,3,4,8,Link to wherever drawn,"",Describe methods of patient selection,"",Yes,"",Yes,"",Yes,"",Low,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",Low,"",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",No,"",Yes,"",Yes,"",Yes,"",High,""
+174,Talini 1995,Chest radiography and high resolution computed tomography in the evaluation of workers exposed to silica dust: relation with functional findings.,Consensus,"",Chest radiography and high resolution computed tomography in the evaluation of workers exposed to silica dust: relation with functional findings,Occupational and Environmental Medicine,1995,Italy,"","",Cross sectional study,Not specified,Not specified,Occupational screening,"27 subjects (1 woman, 26 men) who had been exposed to silica dust in mines, glass and pottery industries, and the building industry. 
+
+Most previously diagnosed with silicosis based on history of silica exposure and radiographic changes consistent with silicosis (>=1/0 ILO)
+
+8 current smokers, 6 non-smokers, 13 ex-smokers",57 (SD 8.8) range 44-76,Not provided,27,History of exposure to silica and radiographic changes consistent with silicosis,Not specified,Most previously diagnosed,"ILO, 2 experienced readers - radiologist and pulmonologist. Independent. In case of discrepancy resolved by consensus. >=1/0 was cat 1","2 readers with 5 categories. Discrepancy by consensus.
+0 = no nodules
+1 = small w/o disruption of vascular markings
+2 = many definite nodules w/o confluence
+3 = confluence + disruption
+4 = confluence over 2 or more slices","","For our purposes, the below is assumed
+
+ILO 1 = HRCT 1
+ILO 2 = HRCT 2
+ILO 3 + 4 = HRCT 3 + 4 (study already merges HRCT 3+4 in Fig 1, and there was nobody diagnosed as category 4 through CXR)
+
+2/7 = specificity (29%) is extremely low in this study; unclear why this may be (could be due to poor reading/interpretation of the HRCT readings by the 2 readers). This poor specificity, contrary to what the paper suggests, is not likely due to the poor characterisation of the guidelines, since categories 1 definitions are similar for both HRCT and ILO.",HRCT,19,8,20,7,"",14,5,6,2,"",2,6,0,0,5,4,1,0,0,3,2,2,0,0,0,2,"","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Unclear,"",Yes,"",Yes,"",Unclear,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,2 experienced readers independently graded the CXRs according to the ILO classification. Resolution by consensus. ,Yes,"",Yes,"",Low,"",Low,"",Describe the reference standard and how it was conducted and interpreted,same 2 readers independently graded the HRCT profusion of small opacities on a 5-point scale. Resoluation by consensus,Yes,"",Unclear,"",Low,"I think this is low, bar the issue with blinding which is covered above",Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Unclear,"",Yes,"",Yes,"",Yes,"",Unclear,""
+146,Corbett 1999,Use of miniradiographs to detect silicosis. Comparison of radiological with autopsy findings.,Consensus,"", Use of miniradiographs to detect silicosis. Comparison of radiological with autopsy findings, Am J Respir Crit Care Med,1999,South Africa,N/A,"",Cross sectional study,January 1996,July 1997,Occupational health referral,Male gold miners who had died between Jan 1996 - July 1997 whilst working for a company in South Africa were identified from payroll records and obtained histopathological and miniradiograph records for each individual.,"Age at death:
+25-39 = 89 (37%)
+40-49 = 97 (40%)
+50+ = 55 (23%)
+There is no mean age reported.","Employment duration:
+0-14 = 80 (36%)
+15-24 = 89 (40%)
+25+ = 53 (24%)",241,Miners who died for this South African company who died Jan 1996-July 1997 who had an autopsy carried out and had a radiograph performed within 2 years of death.,"Non-standard silicosis grading system used upon autopsy by 2 pathologists (such as no reference to the autopsy grade = 197 men excluded) 
+Asbestosis (1 man excluded)
+No radiographs (19 men excluded)",Pre-existing information from autopsy and prior radiographs.,"The 2x2 table uses >=1/0 as the diagnostic threshold.
+The paper also has sufficient data for calculating sensitivity/specificity trhough >=1/1 if needed.
+
+2 readers
+- Involved in screening miniradiographs for silicosis compensation since 1974.  Decisions on final grades were reached by consensus between the two readers when initial grades differed","","Presence of silicotic fibrosis and any nodules on autopsy
+
+7 total pathologists, but 2 excluded based on differing grading system","Sensitivities and specificities for >=1/0, as I calculated it, are 50% and 92.546%, respectively, which aligns with the values the paper purported.
+
+Differences in CXR resolved by consesus. Single pathologist opinion. ","","","","","","","","","","","","","","","","","","","","","","","","","","","",52,189,80,161,"",40,12,40,149,"Autopsy category 1 = assumed to be silicotic fibrosis and presence of <5 nodules
+
+Autopsy category 2 = assumed to be 5-30 nodules
+
+Autopsy category 3 = assumed to be >30 nodules","",149,31,9,0,12,11,9,0,0,2,8,3,0,1,4,2,Link to wherever drawn,"",Describe methods of patient selection,"",Yes,"",Yes,"",Yes,"",Low,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,Possibly bias by ILO untrained reader?,Low,"",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Unclear,"",Yes,"",Yes,"",Yes,"",Low,""
+104,Antao 2005,High-resolution CT in silicosis: correlation with radiographic findings and functional impairment.,Consensus,"",High-Resolution CT in Silicosis Correlation With Radiographic Findings and Functional Impairment,Journal of Computer Assisted Tomography,2005,Brazil,N/A,"",Cross sectional study,Not reported :/,Not reported :/,Occupational screening,"Included all 41 currently employed stone carvers in Petropolis, Brazil who had worked for at least 1 year and had no previous silica exposure in other jobs
+
+41 stone carvers, 40 male 1 female
+27 non-smokers, 6 ex-smokers, 8 current smokers
+Ex-smokers = 10.6 SD 9.8 pack years
+Current smokers = 13.6 +/- 16 pack years
+
+""A control group composed of 9 healthy nonsmoking individuals, with no exposure to mineral dusts, was included in the evaluation""",36.2 +/- 8.7 years,"",41,"Stone carvers working at least 1 year in Petropolis, Brazil",Previous silica exposure in other jobs,Newly,"""Three ‘‘A’’ readers interpreted the radiographs in
+independent sessions"" using ILO scale. 
+
+Results section identifies profusion of small opacities >1/0 as consistent with diagnosis (for table 2), however, methods section identifies >=1/0.
+
+However, it is likely that the study categorises 1/0 as part of Category 1, as table 2 only has 0, 0/1, then category 1.","Presence of multiple small nodules; modified scale from Begin/Bergin
+3 experienced readers, blinded to occupational history ","",Median result of CT and CXR taken as result,HRCT,22,19,22,19,"",19,3,3,16,"",16,2,1,0,3,2,4,0,0,0,2,2,0,0,3,6,"","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Yes,"",Yes,"",Yes,Included all eligible workers,Low,Consecutive enrollment of all eligible stone carvers makes selection bias unlikely. However risk of healthy worker bias exists,"Describe included patients (prior testing, presentation, intended use of index test and setting)","Included patients were stone carvers with at least 1 year of work and no prior silica exposure. 
+
+The intended use of the index test (CXR) and reference standard (HRCT) was to diagnose silicosis in an occupational setting",Low,The included patients match the review question of diagnosing silicosis in workers exposed to silica dust,Describe the index test and how it was conducted and interpreted,"Posteroanterior chest radiographs were performed and interpreted by 3 (A?) readers according to the ILO classification. 
+
+Profusion scores >=1/0 were considered positive for silicosis. 
+
+Median score. ",Yes,"",Yes,"",Low,"Unclear what an ""A"" reader is; if not fully trained in the ILO classification may introduce some bias in the reading of the CXR. However, we keep it at low.",Low,"",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,3 experienced readers and median scoring. ,Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Yes,"",Yes,"",Yes,"",Yes,"",Low,""
+91,Murgia 2007,An old threat in a new setting: High prevalence of silicosis among jewelry workers.,Consensus,"",An Old Threat in a New Setting: High Prevalence of Silicosis Among Jewelry Workers,AMERICAN JOURNAL OF INDUSTRIAL MEDICINE,2007,Italy,"","",Cross sectional study,January 2004,March 2005,Other: Employers' replies to questionnaire and workplace visits for those exposed to crystalline silica and cristobalite chalk,"Gold and silversmiths employed in preparing molds and pouring metals in artisan workshops, who have been exposed to crystalline silica and cristobalite chalk.","42.2 (SD 9.9) for 23 with silicosis
+36.5 (SD 8( for 74 without silicosis","18.1(SD 9.8) years in lost-wax casting for 23 with silicosis
+14.2 (SD 13) years for 74 without silicosis",100,Employers replies to questionnaire and workplace visits to check for exposure to silica.,"Previous exposure to silica in other settings, presence of sarcoidosis or other diffuse nodular lung diseases, taking medications known to cause lung fibrosis, respiratory infections in the month prior clinical and functional assessment.",Newly diagnosed,">=1/0 was counted. Independently interpreted by 2 experienced radiologists, blinded to exposure history. ","Independently interpreted by 2 experienced radiologists, blinded to exposure history. ","","HRCT (and CXR?) in case of disagreement, a third radiologist giving opinion ",HRCT,"10 
+1/0 = 1
+1/1 = 3
+2/2 = 2
+3/3 = 2
+Class B LO: 2",90,23,77,"",10,0,13,77,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Unclear,"",Yes,"",Yes,"",Unclear,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"The index test was a standard chest X-ray, interpreted independently by two experienced radiologists who were blinded to exposure history, according to ILO. 3rd reader if disagreement. ",Yes,"",Yes,"",Low,Unclear if some risk of bias in resolution of disagreement,Low,"",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Unclear,"",Yes,"",Yes,"",Yes,"",Unclear,""
+85,Lopes 2008,High-resolution computed tomography in silicosis: correlation with chest radiography and pulmonary function tests.,Consensus,"",High-resolution computed tomography in silicosis: correlation with chest radiography and pulmonary function tests,Jornal Brasileiro de Pneumologia,2008,Brazil,"","",Cross sectional study,Not stated,Not stated,Clinic patients,"44 non-smoking patients without history of tuberculosis
+41 male, 3 female
+Sandblasting (45.5%), stone cutting (34.1%), marble quarrying (6.8%), rock quarrying (4.5%), foundry work (4.5%), dental prosthesis design (2.3%), grinding (2.3%)",48.4 years,"Mean duration of silica exposure 16.1 years
+Mean time since withdrawal from exposure 16.9 years",44,>=10 year history of silica exposure and X-ray or HRCT findings consistent with silicosis,"Smokers and former smokers and radiological findings indicating pulmonary tuberculosis (9 excluded, 4 with HRCT PTB findings)",Existing diagnosis,"ILO from 3 readers
+Category 1 includes 1/0","Small opacities into 4 categories similar to ILO
+1 = small micronodules
+2 = large no with or without vascular blurring but no confluence
+3 = confluence <10mm
+Consensus reading by 4 radiologists","","Readings were performed independently by three specialists certified by the Jorge Duprat Figueiredo Foundation for Occupational Safety and Medicine and by the 
+Brazilian Ministry of Labor and Employment. Median of readings taken. 
+
+HRCT reading consensus of four radiologists, previously trained for 1 month ",HRCT,40,4,44,0,"",40,0,4,0,"",0,4,0,0,0,12,10,0,0,1,10,3,0,0,1,3,"","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Unclear,"",Yes,"",Yes,"",Unclear,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",Low,"",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Unclear,"",Low,"HRCT well applied. Risk of bias due to knowledge of index test captured above 
+",Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Yes,"",Yes,"",Yes,"",Yes,"",Low,""
+82,Sun 2008,"The value of high resolution computed tomography in the diagnostics of small opacities and complications of silicosis in mine machinery manufacturing workers, compared to radiography.",Consensus,"","The value of high resolution computed tomography in the diagnostics of small opacities and complications of silicosis in mine machinery manufacturing workers, compared to radiography",J Occup Health,2008,China,"","",Cross sectional study,Not provided,Not provided,Other: Randomly from the Shenyang Mine-machine Manufacture Company,"Male individuals were randomly selected from the Shenyang Mine-machine Manufacture Company who had engaged in sand casting
+
+30 I period silicosis patients were selected from 77 I period silicosis patients were diagnosis was confirmed through radiography
+
+Furthermore, out of 1078 non-silicosis and 162 0+ period silicosis subjects, 30 non-silicosis and 30 0+ period silicosis subjects were randomly selected and matched with the 30 I period subjects by age and occuational exposure time","Non-silicosis group = 48 (5.2 SD)
+0+ period group = 50 (4.9 SD)
+I period group = 51 (4.8 SD)","Non-silicosis group = 15.7 (2.8 SD)
+0+ period group = 16.8 (3.2 SD)
+I period group = 15.7 (2.8 SD)",90,Male workers occupationally exposed to silica dust at the mine manufacturing company,Is not mentioned,At least 60 were already diagnosed (the 0+ and I period group),GBZ70-2002 standard by 5 readers,GBZ70-2002 standard by 5 readers,"","GBZ70-2002 standard compared to ILO?
+
+0+ = manifestation on X-ray not sufficient for diagnosis of I silicosis (akin to 0/1?)
+
+1 = total profusion of opacities is grade 1 and reaches at least 2 lung zones
+
+1+ = total profusion is grade 1 and distribution exceeds 4 lung zones or total profusion is grade 2  and distribution reaches 4 lung zones
+
+Would it be appropriate to group I and I+ as both category 1 from the ILO? Period 1+ seems to be correlate with 1/2.
+
+For the below extraction, I will consider I+ as part of category 1.
+
+The result reported was the consensus when
+three or more of the five readers’ findings were in
+agreement.",HRCT,30,60,35,55,"",30,0,5,55,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Yes,"",No,"",Yes,"",Low,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",Low,"",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",Low,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Unclear,"",Yes,"",Yes,"",Yes,"",Unclear,""
+36,Takahashi 2018,Computed tomography findings of arc-welders' pneumoconiosis: Comparison with silicosis.,Consensus,"",Computed tomography findings of arc-welders' pneumoconiosis: Comparison with silicosis,European Journal of Radiology,2018,Japan,N/A,"",Cross sectional study,Oct 2014,Jan 2015,Clinic patients,"33 cases of silicosis were recruited from Okayama-Rosai Hospital
+These patients were those who visited this Hospitl for regular health checks and had histories of silica dust exposure through work
+
+26 former smokers, 0 current
+30 men and 3 women",74 (range 58-83),37.8 years (8-48 range),33,Clinical diagnosis of silicosis based on occupational history and clinical findings,Not mentioned,Pre-existing diagnosis,"Pneumoconiosis Law Classification System of Japan similar to ILO based on PR 0, 1, 2, 3, 4A, 4B and 4C
+
+Interpreted by 2 chest radiologists with 34 and 28 years experience. Consensus if disagreement","Semi-quantative system based on ICOERD but modified same 2 chest radiologists. Consensus if disagreement
+
+Lungs divided into 6 zones to make cumulative score","","CT score >=1 assumed to be diagnosis
+
+We cant do sub-group analysis as seems impossible? to corr CT score with ILO/PR scores",HRCT,26,7,29,4,"",25,1,4,3,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",Link to wherever drawn,"",Describe methods of patient selection,"",Yes,"",Yes,"",Yes,"",Low,"","Describe included patients (prior testing, presentation, intended use of index test and setting)","",Low,"",Describe the index test and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",Low,"",Describe the reference standard and how it was conducted and interpreted,"",Yes,"",Yes,"",Low,"",Unclear,"",Describe any patients who did not receive the index test(s) and/or reference standard or who were excluded from the 2x2 table (refer to flow diagram),"",Describe the time interval and any interventions between index test(s) and reference standard,"",Yes,"",Yes,"",Yes,"",Yes,"",Low,""
