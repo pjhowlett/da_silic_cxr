@@ -8,7 +8,8 @@ library(tidyverse)
 library(ggpubr)
 
 # Set wd 
-setwd("***INSERT YOUR WORKING DIRECTORY HERE***")
+setwd("~/Library/CloudStorage/Dropbox/PhD/BSc 2024/Silicosis - Systematic Review/Meta-regression & Exposure-response curve")
+
 
 # Load data
 props <- read_excel("props.xlsx")
@@ -21,15 +22,17 @@ props$vi <- (props$sens*(1-props$sens)) /props$n
 # Linear meta-regression model #
 ################################
 
-# For proportion of ILO ≥2 cases/ILO ≥2 cases irrespective of reference test
+# For proportion of ILO ≥2 cases/ILO ≥1 cases irrespective of reference test
 lm_ilo21 <- rma(sens, vi, mods = ~ ilo21, data = props)
 summary(lm_ilo21)
 coef21 <- coef(lm_ilo21)
 
-# For overall proportion of ILO ≥2 cases confirmed by reference test
+# For overall proportion of ILO ≥2 cases *NOT* confirmed by reference test
 lm_ilo2 <- rma(sens, vi, mods = ~ prop2, data = props)
 summary(lm_ilo2)
 coef2 <- coef(lm_ilo2)
+coef2
+
 
 # Graph with confidence intervals using ggplot
 a <- ggplot(props, aes(x = ilo21, y = sens, color = Reference)) +
@@ -37,32 +40,42 @@ a <- ggplot(props, aes(x = ilo21, y = sens, color = Reference)) +
   geom_smooth(method = "lm", se = T, color = "black") +
   labs(x = "Proportion of ILO ≥2/ILO ≥1 Cases", y = "Sensitivity of CXR") +
   theme_pubr() +
-  theme(plot.title = element_text(hjust = 0.5, size = 10, face = "bold"),
-        axis.title = element_text(size = 10, face = "bold"),
-        axis.text = element_text(size = 10, face = "bold"),
+  theme(plot.title = element_text(hjust = 0.5, size = 10),
+        axis.title = element_text(size = 10),
+        axis.text = element_text(size = 10),
         legend.title = element_blank(),        
-        legend.text = element_text(size = 10)) +
+        legend.text = element_text(size = 8)) +
   scale_color_manual(values = c("Autopsy" = "red", "CT" = "blue", "HRCT" = "green")) +
   guides(size = guide_legend(override.aes = list(shape = 19)))
 a
-ggsave(plot = a, "mr_ilo21.png", h = 4, w = 6, type = "cairo-png")
+ggsave(plot = a, "mr_ilo21.jpg", h = 6, w = 6, type = "cairo-png", dpi = 450)
 
 # Graph with confidence intervals using ggplot
 b <- ggplot(props, aes(x = prop2, y = sens, color = Reference)) +
   geom_point(aes(size = n)) +
   geom_smooth(method = "lm", se = T, color = "black") +
-  labs(x = "Proportion of ILO ≥2 cases", y = "Sensitivity of CXR") +
+  labs(x = "Prevalence of ILO ≥2/1", y = "Sensitivity of CXR") +
   theme_pubr() +
-  theme(plot.title = element_text(hjust = 0.5, size = 10, face = "bold"),
-        axis.title = element_text(size = 10, face = "bold"),
-        axis.text = element_text(size = 10, face = "bold"),
+  theme(plot.title = element_text(hjust = 0.5, size = 10),
+        axis.title = element_text(size = 10),
+        axis.text = element_text(size = 10),
         legend.title = element_blank(),
-        legend.text = element_text(size = 10)) +
+        legend.text = element_text(size = 8)) +
   scale_color_manual(values = c("Autopsy" = "red", "CT" = "blue", "HRCT" = "green")) +
   guides(size = guide_legend(override.aes = list(shape = 19)))
 b
-ggsave(plot = b, "mr_prop2.png", h = 4, w = 6, type = "cairo-png")
+ggsave(plot = b, "mr_prop2.png", h = 6, w = 6, type = "cairo-png")
 b
+
+# a and b together share legend 
+fig_4 <- ggpubr::ggarrange(a,b, # list of plots
+                           labels = "AUTO", # labels
+                           align = "hv", # Align them both, horizontal and vertical
+                           ncol = 2,
+                           common.legend = TRUE)  # number of rows
+
+fig_4
+ggsave("Fig_4_MR.jpg", fig_4, width = 10, height = 6)
 #####################################
 # Associate with exposure for ILO21 #
 #####################################
@@ -203,6 +216,7 @@ pred_mine <- read_csv("pred_mine_tab.csv")
 pred_mine$cases <- pred_mine$pred * 419.9
 pred_mine$cases_upper <- pred_mine$ci.ub * 419.9
 pred_mine$cases_lower <- pred_mine$ci.lb * 419.9
+
 # Rename dose to exposure
 pred_mine <- pred_mine %>% rename(exposure = dose)
 glimpse(pred_mine)
@@ -345,7 +359,6 @@ glimpse(pred_non_mine)
 
 # Left join df_dr and pred_non_mine by exposure
 df_tab_non_mine <- left_join(df_tab, pred_non_mine, by = "exposure")
-
 
 # Apply missed_df function to df_dr_non_mine
 df_tab_non_mine <- missed_df(df_tab_non_mine)
